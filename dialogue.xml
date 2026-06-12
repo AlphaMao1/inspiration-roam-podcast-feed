@@ -5,13 +5,13 @@
     <link>https://alphamao1.github.io/inspiration-roam-podcast-feed/dialogue.xml</link>
     <description>私人灵感漫游日报测试 feed</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 12 Jun 2026 09:11:48 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jun 2026 14:30:15 +0000</lastBuildDate>
     <item>
-      <title>2026-06-12 灵感漫游日报（对谈测试）</title>
-      <description>主持人和追问者围绕私有数据、身体成本、负熵与动作系统展开。</description>
-      <guid>317c1dad462215211a7941e32c77960eb12a6130fd7e221293f2a2c22c878046</guid>
-      <pubDate>Fri, 12 Jun 2026 08:50:07 +0000</pubDate>
-      <enclosure url="https://alphamao1.github.io/inspiration-roam-podcast-feed/audio/2026-06-12_dialogue.mp3" length="2452940" type="audio/mpeg" />
+      <title>2026-06-12 灵感漫游日报：动作回路地图（对谈）</title>
+      <description>从焦虑、刷手机和大脑的动作选择谈起：自我记录不是给内心写传记，而是给动作回路画地图。</description>
+      <guid>2026-06-12-dialogue-natural-action-loop-map</guid>
+      <pubDate>Fri, 12 Jun 2026 14:24:49 +0000</pubDate>
+      <enclosure url="https://alphamao1.github.io/inspiration-roam-podcast-feed/audio/2026-06-12_dialogue_natural.mp3" length="6231500" type="audio/mpeg" />
     </item>
   </channel>
 </rss>
