@@ -5,7 +5,14 @@
     <link>https://alphamao1.github.io/inspiration-roam-podcast-feed/dialogue.xml</link>
     <description>每天从私人笔记中随机抽样，做片段级语义碰撞，并生成一集自然对谈。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 12 Jun 2026 14:42:23 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jun 2026 02:45:30 +0000</lastBuildDate>
+    <item>
+      <title>2026-06-13 灵感漫游日报：真正成熟的能力不是一直加速（对谈）</title>
+      <description>从力速关系和控制论自指出发，聊创作里的减速、刹车和自我调节。</description>
+      <guid>2026-06-13-dialogue</guid>
+      <pubDate>Sat, 13 Jun 2026 02:45:14 +0000</pubDate>
+      <enclosure url="https://alphamao1.github.io/inspiration-roam-podcast-feed/audio/2026-06-13_dialogue.mp3" length="4968044" type="audio/mpeg" />
+    </item>
     <item>
       <title>2026-06-12 灵感漫游日报：动作回路地图（对谈）</title>
       <description>从焦虑、刷手机和大脑的动作选择谈起：自我记录不是给内心写传记，而是给动作回路画地图。</description>
