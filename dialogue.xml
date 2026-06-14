@@ -5,7 +5,14 @@
     <link>https://alphamao1.github.io/inspiration-roam-podcast-feed/dialogue.xml</link>
     <description>每天从私人笔记中随机抽样，做片段级语义碰撞，并生成一集自然对谈。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 13 Jun 2026 02:45:30 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jun 2026 08:42:26 +0000</lastBuildDate>
+    <item>
+      <title>2026-06-14 灵感漫游日报：复杂度要被分配到反馈结构里（对谈）</title>
+      <description>从视觉、必要多样性、量子模拟和人月神话里，讨论复杂对象为什么需要反馈结构而不是蛮力复制。</description>
+      <guid>2026-06-14-dialogue</guid>
+      <pubDate>Sun, 14 Jun 2026 08:42:12 +0000</pubDate>
+      <enclosure url="https://alphamao1.github.io/inspiration-roam-podcast-feed/audio/2026-06-14_dialogue.mp3" length="5745644" type="audio/mpeg" />
+    </item>
     <item>
       <title>2026-06-13 灵感漫游日报：真正成熟的能力不是一直加速（对谈）</title>
       <description>从力速关系和控制论自指出发，聊创作里的减速、刹车和自我调节。</description>
