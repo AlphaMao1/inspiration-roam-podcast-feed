@@ -5,7 +5,14 @@
     <link>https://alphamao1.github.io/inspiration-roam-podcast-feed/dialogue.xml</link>
     <description>每天从私人笔记中随机抽样，做片段级语义碰撞，并生成一集自然对谈。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 14 Jun 2026 08:42:26 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 09:42:33 +0000</lastBuildDate>
+    <item>
+      <title>2026-06-15 灵感漫游日报：自指之后，要接上疼痛（单人）</title>
+      <description>系统只有把自我描述接上误差、行动和代价，才会从反思变成更新。</description>
+      <guid>2026-06-15-dialogue-feed-mono</guid>
+      <pubDate>Mon, 15 Jun 2026 09:41:06 +0000</pubDate>
+      <enclosure url="https://alphamao1.github.io/inspiration-roam-podcast-feed/audio/2026-06-15_mono.mp3" length="7200908" type="audio/mpeg" />
+    </item>
     <item>
       <title>2026-06-14 灵感漫游日报：复杂度要被分配到反馈结构里（对谈）</title>
       <description>从视觉、必要多样性、量子模拟和人月神话里，讨论复杂对象为什么需要反馈结构而不是蛮力复制。</description>
