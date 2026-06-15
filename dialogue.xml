@@ -1,38 +1,17 @@
 <?xml version='1.0' encoding='utf-8'?>
 <rss version="2.0">
   <channel>
-    <title>灵感漫游日报</title>
+    <title>Alpha Mao的灵感日报</title>
     <link>https://alphamao1.github.io/inspiration-roam-podcast-feed/dialogue.xml</link>
-    <description>每天从私人笔记中随机抽样，做片段级语义碰撞，并生成一集自然对谈。</description>
+    <description>从私人笔记里随机抽样，选一个最有生成力的碰撞点，写成一集单人灵感日报。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 15 Jun 2026 09:42:33 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 11:52:11 +0000</lastBuildDate>
     <item>
-      <title>2026-06-15 灵感漫游日报：自指之后，要接上疼痛（单人）</title>
-      <description>系统只有把自我描述接上误差、行动和代价，才会从反思变成更新。</description>
-      <guid>2026-06-15-dialogue-feed-mono</guid>
-      <pubDate>Mon, 15 Jun 2026 09:41:06 +0000</pubDate>
-      <enclosure url="https://alphamao1.github.io/inspiration-roam-podcast-feed/audio/2026-06-15_mono.mp3" length="7200908" type="audio/mpeg" />
-    </item>
-    <item>
-      <title>2026-06-14 灵感漫游日报：复杂度要被分配到反馈结构里（对谈）</title>
-      <description>从视觉、必要多样性、量子模拟和人月神话里，讨论复杂对象为什么需要反馈结构而不是蛮力复制。</description>
-      <guid>2026-06-14-dialogue</guid>
-      <pubDate>Sun, 14 Jun 2026 08:42:12 +0000</pubDate>
-      <enclosure url="https://alphamao1.github.io/inspiration-roam-podcast-feed/audio/2026-06-14_dialogue.mp3" length="5745644" type="audio/mpeg" />
-    </item>
-    <item>
-      <title>2026-06-13 灵感漫游日报：真正成熟的能力不是一直加速（对谈）</title>
-      <description>从力速关系和控制论自指出发，聊创作里的减速、刹车和自我调节。</description>
-      <guid>2026-06-13-dialogue</guid>
-      <pubDate>Sat, 13 Jun 2026 02:45:14 +0000</pubDate>
-      <enclosure url="https://alphamao1.github.io/inspiration-roam-podcast-feed/audio/2026-06-13_dialogue.mp3" length="4968044" type="audio/mpeg" />
-    </item>
-    <item>
-      <title>2026-06-12 灵感漫游日报：动作回路地图（对谈）</title>
-      <description>从焦虑、刷手机和大脑的动作选择谈起：自我记录不是给内心写传记，而是给动作回路画地图。</description>
-      <guid>2026-06-12-dialogue-natural-action-loop-map</guid>
-      <pubDate>Fri, 12 Jun 2026 14:24:49 +0000</pubDate>
-      <enclosure url="https://alphamao1.github.io/inspiration-roam-podcast-feed/audio/2026-06-12_dialogue_natural.mp3" length="6231500" type="audio/mpeg" />
+      <title>2026-06-15 Alpha Mao的灵感日报：反思之后，要进入反馈</title>
+      <description>自我描述只有改变下一次动作，才算真正开始更新。</description>
+      <guid>2026-06-15-alpha-mao-feedback</guid>
+      <pubDate>Mon, 15 Jun 2026 11:52:01 +0000</pubDate>
+      <enclosure url="https://alphamao1.github.io/inspiration-roam-podcast-feed/audio/2026-06-15_mono.mp3" length="5123564" type="audio/mpeg" />
     </item>
   </channel>
 </rss>
