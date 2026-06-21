@@ -5,7 +5,7 @@
     <link>https://alphamao1.github.io/inspiration-roam-podcast-feed/dialogue.xml</link>
     <description>从私人笔记里随机抽样，选一个最有生成力的碰撞点，写成一集单人灵感日报。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 18 Jun 2026 01:55:06 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jun 2026 08:12:15 +0000</lastBuildDate>
     <atom:link href="https://alphamao1.github.io/inspiration-roam-podcast-feed/dialogue.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Alpha Mao</itunes:author>
     <itunes:summary>从私人笔记里随机抽样，选一个最有生成力的碰撞点，写成一集单人灵感日报。</itunes:summary>
@@ -22,6 +22,13 @@
       <link>https://alphamao1.github.io/inspiration-roam-podcast-feed/dialogue.xml</link>
     </image>
     <itunes:image href="https://alphamao1.github.io/inspiration-roam-podcast-feed/artwork/alpha-mao-inspiration-cover.jpg" />
+    <item>
+      <title>不要把意图钉死在第一步</title>
+      <description>真正会学习的系统，会允许结果反过来改写下一步。</description>
+      <guid>2026-06-21-alpha-mao-fixed-intention-compat</guid>
+      <pubDate>Sun, 21 Jun 2026 08:11:46 +0000</pubDate>
+      <enclosure url="https://alphamao1.github.io/inspiration-roam-podcast-feed/audio/2026-06-21_mono.mp3" length="5618924" type="audio/mpeg" />
+    </item>
     <item>
       <title>复杂性要先长出接口</title>
       <description>同一结构只有在不同位置长出不同用法，并能回到整体里工作，复杂性才开始生长。</description>
