@@ -5,7 +5,7 @@
     <link>https://alphamao1.github.io/inspiration-roam-podcast-feed/dialogue.xml</link>
     <description>从私人笔记里随机抽样，选一个最有生成力的碰撞点，写成一集单人灵感日报。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 23 Jun 2026 03:56:33 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 01:54:20 +0000</lastBuildDate>
     <atom:link href="https://alphamao1.github.io/inspiration-roam-podcast-feed/dialogue.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Alpha Mao</itunes:author>
     <itunes:summary>从私人笔记里随机抽样，选一个最有生成力的碰撞点，写成一集单人灵感日报。</itunes:summary>
@@ -49,13 +49,6 @@
       <guid>2026-06-18-alpha-mao-interface-complexity-compat</guid>
       <pubDate>Thu, 18 Jun 2026 01:54:56 +0000</pubDate>
       <enclosure url="https://alphamao1.github.io/inspiration-roam-podcast-feed/audio/2026-06-18_mono.mp3" length="24937004" type="audio/mpeg" />
-    </item>
-    <item>
-      <title>不要跟着肩线跑</title>
-      <description>真正控制行动的，常常不是最显眼的信号，而是能让系统持续校正误差的那组深层约束。</description>
-      <guid>2026-06-16-alpha-mao-shoulder-line-compat</guid>
-      <pubDate>Tue, 16 Jun 2026 13:56:27 +0000</pubDate>
-      <enclosure url="https://alphamao1.github.io/inspiration-roam-podcast-feed/audio/2026-06-16_mono.mp3" length="5315660" type="audio/mpeg" />
     </item>
   </channel>
 </rss>

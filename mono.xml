@@ -5,7 +5,7 @@
     <link>https://alphamao1.github.io/inspiration-roam-podcast-feed/mono.xml</link>
     <description>从私人笔记里随机抽样，选一个最有生成力的碰撞点，写成一集单人灵感日报。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 23 Jun 2026 03:56:33 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 01:54:20 +0000</lastBuildDate>
     <atom:link href="https://alphamao1.github.io/inspiration-roam-podcast-feed/mono.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Alpha Mao</itunes:author>
     <itunes:summary>从私人笔记里随机抽样，选一个最有生成力的碰撞点，写成一集单人灵感日报。</itunes:summary>
@@ -22,6 +22,13 @@
       <link>https://alphamao1.github.io/inspiration-roam-podcast-feed/mono.xml</link>
     </image>
     <itunes:image href="https://alphamao1.github.io/inspiration-roam-podcast-feed/artwork/alpha-mao-inspiration-cover.jpg" />
+    <item>
+      <title>长久有效也会遇到清场</title>
+      <description>从费米悖论和三叶虫身体路线出发，重新读窄“智慧可能多余”：长期有效不等于长期安全，真正要看环境换题时还有多少冗余。</description>
+      <guid>7d51a09eed0fdf98b7dbdea19c6b59d8fef245f10b72c61112e5c8a4f5f97eeb</guid>
+      <pubDate>Wed, 24 Jun 2026 01:54:12 +0000</pubDate>
+      <enclosure url="https://alphamao1.github.io/inspiration-roam-podcast-feed/audio/2026-06-24_mono.mp3" length="5328908" type="audio/mpeg" />
+    </item>
     <item>
       <title>不丢失不等于发生过</title>
       <description>从数据处理和模型边界出发，重新读窄“不丢失”：保存的是被承认为数据的那部分，不是发生过的完整世界。</description>
