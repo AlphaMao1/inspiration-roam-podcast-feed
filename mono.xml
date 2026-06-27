@@ -5,7 +5,7 @@
     <link>https://alphamao1.github.io/inspiration-roam-podcast-feed/mono.xml</link>
     <description>从私人笔记里随机抽样，选一个最有生成力的碰撞点，写成一集单人灵感日报。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 24 Jun 2026 02:00:53 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jun 2026 11:06:02 +0000</lastBuildDate>
     <atom:link href="https://alphamao1.github.io/inspiration-roam-podcast-feed/mono.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Alpha Mao</itunes:author>
     <itunes:summary>从私人笔记里随机抽样，选一个最有生成力的碰撞点，写成一集单人灵感日报。</itunes:summary>
@@ -22,6 +22,13 @@
       <link>https://alphamao1.github.io/inspiration-roam-podcast-feed/mono.xml</link>
     </image>
     <itunes:image href="https://alphamao1.github.io/inspiration-roam-podcast-feed/artwork/alpha-mao-inspiration-cover.jpg" />
+    <item>
+      <title>门票也要支付代谢</title>
+      <description>从前沿过滤器和复杂性成本出发，重新读窄“有门票”：进入前沿不是安全边界，而是开始承担一条必须持续供能的高成本路线。</description>
+      <guid>e661efb9b13d0f620e71a6649800219611b1612885bdca463c2cd093b3a659e1</guid>
+      <pubDate>Sat, 27 Jun 2026 11:05:51 +0000</pubDate>
+      <enclosure url="https://alphamao1.github.io/inspiration-roam-podcast-feed/audio/2026-06-27_mono.mp3" length="6128684" type="audio/mpeg" />
+    </item>
     <item>
       <title>长久有效也会遇到清场</title>
       <description>从费米悖论和三叶虫身体路线出发，重新读窄“智慧可能多余”：长期有效不等于长期安全，真正要看环境换题时还有多少冗余。</description>
