@@ -5,7 +5,7 @@
     <link>https://alphamao1.github.io/inspiration-roam-podcast-feed/mono.xml</link>
     <description>从私人笔记里随机抽样，选一个最有生成力的碰撞点，写成一集单人灵感日报。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 28 Jun 2026 01:21:46 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 01:43:36 +0000</lastBuildDate>
     <atom:link href="https://alphamao1.github.io/inspiration-roam-podcast-feed/mono.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Alpha Mao</itunes:author>
     <itunes:summary>从私人笔记里随机抽样，选一个最有生成力的碰撞点，写成一集单人灵感日报。</itunes:summary>
@@ -22,6 +22,13 @@
       <link>https://alphamao1.github.io/inspiration-roam-podcast-feed/mono.xml</link>
     </image>
     <itunes:image href="https://alphamao1.github.io/inspiration-roam-podcast-feed/artwork/alpha-mao-inspiration-cover.jpg" />
+    <item>
+      <title>信息有时先以残留存在</title>
+      <description>有些信息先不是知识，而是暂时无人能处理的结构。</description>
+      <guid>128fcf179ad0297d43a1534ee85884ddb5c8c34bfe824e65272a10e42f17274c</guid>
+      <pubDate>Mon, 29 Jun 2026 01:43:23 +0000</pubDate>
+      <enclosure url="https://alphamao1.github.io/inspiration-roam-podcast-feed/audio/2026-06-29_mono.mp3" length="5847308" type="audio/mpeg" />
+    </item>
     <item>
       <title>日记要先留住反应物</title>
       <description>一个计划页最有用的地方，可能不在层级，而在它给零散输入留出一个小池塘。</description>
