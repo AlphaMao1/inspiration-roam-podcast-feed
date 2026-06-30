@@ -5,7 +5,7 @@
     <link>https://alphamao1.github.io/inspiration-roam-podcast-feed/mono.xml</link>
     <description>从私人笔记里随机抽样，选一个最有生成力的碰撞点，写成一集单人灵感日报。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 29 Jun 2026 01:43:36 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 01:38:23 +0000</lastBuildDate>
     <atom:link href="https://alphamao1.github.io/inspiration-roam-podcast-feed/mono.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Alpha Mao</itunes:author>
     <itunes:summary>从私人笔记里随机抽样，选一个最有生成力的碰撞点，写成一集单人灵感日报。</itunes:summary>
@@ -22,6 +22,13 @@
       <link>https://alphamao1.github.io/inspiration-roam-podcast-feed/mono.xml</link>
     </image>
     <itunes:image href="https://alphamao1.github.io/inspiration-roam-podcast-feed/artwork/alpha-mao-inspiration-cover.jpg" />
+    <item>
+      <title>自我要由已经付出的成本固定</title>
+      <description>从大模型的“我”和配子异型生殖出发，重新读稳定主体：主体不只靠反馈闭环，也靠已经付出的身体成本和不可撤回后果。</description>
+      <guid>53f6176156a7ab58ede7b26db7ded6636175aebf4f7b1bd49759df5624710219</guid>
+      <pubDate>Tue, 30 Jun 2026 01:38:13 +0000</pubDate>
+      <enclosure url="https://alphamao1.github.io/inspiration-roam-podcast-feed/audio/2026-06-30_mono.mp3" length="4582988" type="audio/mpeg" />
+    </item>
     <item>
       <title>信息有时先以残留存在</title>
       <description>有些信息先不是知识，而是暂时无人能处理的结构。</description>
