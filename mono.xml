@@ -5,7 +5,7 @@
     <link>https://alphamao1.github.io/inspiration-roam-podcast-feed/mono.xml</link>
     <description>从私人笔记里随机抽样，选一个最有生成力的碰撞点，写成一集单人灵感日报。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 30 Jun 2026 01:38:23 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 01:55:33 +0000</lastBuildDate>
     <atom:link href="https://alphamao1.github.io/inspiration-roam-podcast-feed/mono.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Alpha Mao</itunes:author>
     <itunes:summary>从私人笔记里随机抽样，选一个最有生成力的碰撞点，写成一集单人灵感日报。</itunes:summary>
@@ -22,6 +22,13 @@
       <link>https://alphamao1.github.io/inspiration-roam-podcast-feed/mono.xml</link>
     </image>
     <itunes:image href="https://alphamao1.github.io/inspiration-roam-podcast-feed/artwork/alpha-mao-inspiration-cover.jpg" />
+    <item>
+      <title>身体先把控制切成一节一节</title>
+      <description>神经系统接手的，是一具已经有方向、有重复单元、有局部自由度的身体。</description>
+      <guid>bed6b4a50c964157273b1f517b72b786bf9520d56b9607f0644a541902c8a909</guid>
+      <pubDate>Wed, 01 Jul 2026 01:55:24 +0000</pubDate>
+      <enclosure url="https://alphamao1.github.io/inspiration-roam-podcast-feed/audio/2026-07-01_mono.mp3" length="3730508" type="audio/mpeg" />
+    </item>
     <item>
       <title>自我要由已经付出的成本固定</title>
       <description>从大模型的“我”和配子异型生殖出发，重新读稳定主体：主体不只靠反馈闭环，也靠已经付出的身体成本和不可撤回后果。</description>
